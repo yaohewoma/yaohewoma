@@ -2,6 +2,7 @@
       c#
       avalonia框架
       figma设计
+      English
 ## 待学：
       数据结构
       网络技术
